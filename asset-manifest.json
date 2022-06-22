@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/walkie-talkie/static/css/main.f90409eb.css",
+    "main.js": "/walkie-talkie/static/js/main.2e4f33d8.js",
+    "static/js/787.ae48d2dc.chunk.js": "/walkie-talkie/static/js/787.ae48d2dc.chunk.js",
+    "index.html": "/walkie-talkie/index.html",
+    "main.f90409eb.css.map": "/walkie-talkie/static/css/main.f90409eb.css.map",
+    "main.2e4f33d8.js.map": "/walkie-talkie/static/js/main.2e4f33d8.js.map",
+    "787.ae48d2dc.chunk.js.map": "/walkie-talkie/static/js/787.ae48d2dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f90409eb.css",
+    "static/js/main.2e4f33d8.js"
+  ]
+}
